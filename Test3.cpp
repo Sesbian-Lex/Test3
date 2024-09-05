@@ -44,5 +44,4 @@ int main() {
 	}
 	delete[] matrix;
 
-	system("pause");
 }
